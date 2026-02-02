@@ -8,3 +8,4 @@ matplotlib
 requests
 python-dotenv
 plotly
+fpdf
